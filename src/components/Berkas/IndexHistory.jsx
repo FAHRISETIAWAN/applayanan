@@ -15,7 +15,7 @@ const IndexHistory = () => {
   return (
         <div className="grid gap-6 mt-5 mb-6 grid-cols-1 xl:grid-cols-1">
             <PageTitle>History Berkas</PageTitle>
-            <div className="grid gap-6 mt-5 mb-6 grid-cols-2 xl:grid-cols-1">
+            <div className="grid gap-6 mt-5 mb-6 grid-cols-1 xl:grid-cols-1">
             <ChartCard>
                     <div className="grid gap-6 mb-1 md:grid-cols-1">
                         {/* {isLoading ? ( 
